@@ -31,5 +31,13 @@ print("sum marks students:",Student.sum_marks)
 print("------------------------")
 Student.avg_age()
 Student.avg_marks()
-
+'''
+_________Output_________
+sum students: 4
+sum age students: 94
+sum marks students: 350
+------------------------
+avg age students: 23.5
+avg marks students: 87.5
+'''
 # task.03 Python - Atalo Abeje
