@@ -56,3 +56,19 @@ for i in range(0, 5):
     Person().set_age(random.randint(-20, 200))      #  send random number to the function set_age
     Person().set_eye_color(random.choice(colors))   # send random color to the function set_eye_color
     print("-------------------")
+    
+'''
+__________________________OUTPUT:____________________________
+valid name:  Clarc
+valid age:  40
+valid eye color:  green
+-------------------
+valid name:  Sean
+valid age:  116
+valid eye color:  green
+-------------------
+non-valid name! Short input - your input is less than 3 chars:  2
+valid age:  67
+non-valid color!
+-------------------
+''' 
