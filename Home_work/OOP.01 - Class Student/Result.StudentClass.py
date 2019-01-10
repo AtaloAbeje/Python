@@ -6,8 +6,8 @@ class Student:
     def __init__(self, mark, age):
         self.mark = mark
         self.age = age
+        
         Student.sum_students+=1            # summarize of students
-
         Student.sum_age += self.age        # summarize of age students
         Student.sum_marks += self.mark     # summarize of marks students
 
