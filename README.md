@@ -52,7 +52,9 @@
     * [non-correct cascading of catch](https://github.com/AtaloAbeje/Python/blob/master/OOP/Day%2011%20-%2002.01.2019/11_multi%20level%20exception.py)
     * [correct cascading of catch](https://github.com/AtaloAbeje/Python/blob/master/OOP/Day%2011%20-%2002.01.2019/12_multi%20level%20exception.py)
     * [multi-level inheritance of custom exception class](https://github.com/AtaloAbeje/Python/blob/master/OOP/Day%2011%20-%2002.01.2019/13_multi%20level%20exception.py)
-    * class task - exceptions handling
++ Tasks/Home work
+      * [task 1 - basic](https://github.com/AtaloAbeje/Python/blob/master/Home_work/Task.01%20-%20basic.py)
+   
 
 
 
