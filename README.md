@@ -54,7 +54,7 @@
     * [multi-level inheritance of custom exception class](https://github.com/AtaloAbeje/Python/blob/master/OOP/Day%2011%20-%2002.01.2019/13_multi%20level%20exception.py)
 + Tasks/Home work
    * [task 1 - basic](https://github.com/AtaloAbeje/Python/blob/master/Home_work/Task.01%20-%20basic.py)
-   * [task 2 - chek id validation](https://github.com/AtaloAbeje/Python/blob/master/Home_work/Task.02%20-%20check%20id.py)
+   * [task 2 - chek id validation](https://github.com/AtaloAbeje/Python/tree/master/Home_work/chek%20id%20validation)
    + oop
          [Student manager](https://github.com/AtaloAbeje/Python/tree/master/Home_work/OOP.01%20-%20Class%20Student)
     + oop
